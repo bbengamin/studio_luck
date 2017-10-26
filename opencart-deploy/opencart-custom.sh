@@ -1,0 +1,1 @@
+mv /home/ubuntu/workspace/studio_luck/opencart-custom-build/* /home/ubuntu/workspace/
